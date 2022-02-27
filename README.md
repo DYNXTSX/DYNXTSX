@@ -11,6 +11,7 @@ Having grown up in a connected world, I could see how important computer securit
 
 I am currently in my first year of engineering school in cybersecurity :)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DYNXTSX&layout=compact&show_icons=true&theme=tokyonight&langs_count=10)
 
 
 <!--
