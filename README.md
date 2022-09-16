@@ -1,4 +1,4 @@
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://data.whicdn.com/images/350989735/original.gif))
+![Alt Text](https://data.whicdn.com/images/350989735/original.gif)
 
 
 
