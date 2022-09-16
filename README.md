@@ -1,3 +1,7 @@
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://data.whicdn.com/images/350989735/original.gif))
+
+
+
 ### Hi 👋 ! I'm François :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fran%C3%A7ois-peralde-49b5001b1/)
