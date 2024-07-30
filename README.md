@@ -5,7 +5,6 @@
 ### Hi 👋 ! I'm François :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fran%C3%A7ois-peralde-49b5001b1/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dynxtsx/)
 
 ### Happy to meet you! :)
 
